@@ -395,5 +395,8 @@ compound_interest(pa,rate,time)
     And time:5
     Compound interest is 11592.74
 
+##### This notebook update **continuesly...!!!**
 
-##### This notebook update continuesly...!!!
+
+
+***Design by Jaimin Makwana***
